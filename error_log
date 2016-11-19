@@ -1,0 +1,42 @@
+[12-Sep-2016 19:14:39 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Sep-2016 19:14:39 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Sep-2016 19:14:48 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Sep-2016 19:14:48 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Sep-2016 19:15:34 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Sep-2016 19:15:34 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Sep-2016 19:15:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/chefd689/public_html/salvar.php on line 32
+[12-Sep-2016 19:15:44 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Sep-2016 19:15:44 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Sep-2016 19:15:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/chefd689/public_html/salvar.php on line 32

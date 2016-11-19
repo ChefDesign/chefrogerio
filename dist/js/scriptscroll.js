@@ -1,0 +1,1 @@
+var offset=$("#menu").offset().top,$menu=$("#menu");$(document).on("scroll",function(){offset<=$(window).scrollTop()?$menu.addClass("fixar"):$menu.removeClass("fixar")});
